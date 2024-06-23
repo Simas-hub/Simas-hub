@@ -1,7 +1,11 @@
-Hey, I’m @Simas-hub from Lithuania
+Hey, I’m @Simas-hub from Lithuania,
+
 I am interested in learning web development while also managing my hobbies in music and art!
+
 I’m currently learning Full-stack development through The Odin Project
+
 You can reach me through my email simastamu@gmail.com or on discord "meninykas"
+
 Overall I consider myself as a creative and open-minded person with keen interests in music, design and nature!
 
 <!---
